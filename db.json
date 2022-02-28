@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Http status codes",
+      "content": "https://en.wikipedia.org/wiki/List_of_HTTP_status_codes",
+      "id": 4
+    },
+    {
+      "title": "These are the numbers between 0 and 11",
+      "content": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "id": 5
+    }
+  ]
+}
